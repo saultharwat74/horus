@@ -5,6 +5,8 @@
   "scripts": {
     "start-storybook:hooks": "nx run hooks:storybook",
     "build-storybook:hooks": "nx run hooks:build-storybook",
+    "start-storybook:react-ui": "nx run react-ui:storybook",
+    "build-storybook:react-ui": "nx run react-ui:build-storybook",
     "commit": "git-cz"
   },
   "private": true,

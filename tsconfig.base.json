@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@horus/hooks": ["packages/hooks/src/index.ts"]
+      "@horus/hooks": ["packages/hooks/src/index.ts"],
+      "@horus/react-ui": ["packages/react-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
